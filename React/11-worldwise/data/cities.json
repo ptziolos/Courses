@@ -1,0 +1,112 @@
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Berlin",
+      "country": "Germany",
+      "emoji": "🇩🇪",
+      "date": "2027-02-12T09:24:11.863Z",
+      "notes": "Amazing 😃",
+      "position": {
+        "lat": 52.53586782505711,
+        "lng": 13.376933665713324
+      },
+      "id": 98443197
+    },
+    {
+      "cityName": "Alcaniz",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-27T06:31:24.936Z",
+      "notes": "test",
+      "position": {
+        "lat": "40.98197154086656",
+        "lng": "-0.12634277343750003"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Midelt",
+      "country": "Morocco",
+      "emoji": "🇲🇦",
+      "date": "2023-10-27T07:01:01.182Z",
+      "notes": "",
+      "position": {
+        "lat": "32.39851580247402",
+        "lng": "-5.141601562500001"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Oum El Assel",
+      "country": "Algeria",
+      "emoji": "🇩🇿",
+      "date": "2023-10-27T07:04:02.966Z",
+      "notes": "",
+      "position": {
+        "lat": "27.15692045688088",
+        "lng": "-4.746093750000001"
+      },
+      "id": 98443215
+    },
+    {
+      "cityName": "Solopaca",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2023-10-27T07:04:02.966Z",
+      "notes": "",
+      "position": {
+        "lat": "41.178653972331674",
+        "lng": "14.501953125000002"
+      },
+      "id": 98443216
+    },
+    {
+      "cityName": "Nanteuil-le-Haudouin",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2023-10-27T07:32:03.099Z",
+      "notes": "",
+      "position": {
+        "lat": "49.15296965617042",
+        "lng": "2.8125"
+      },
+      "id": 98443217
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-11-08T15:26:27.912Z",
+      "notes": "",
+      "position": {
+        "lat": "40.006119459786355",
+        "lng": "-0.023174285888671875"
+      },
+      "id": 98443218
+    }
+  ]
+}
