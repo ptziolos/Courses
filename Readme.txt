@@ -1,1 +1,5 @@
-Projects from various courses 
+Projects from various courses
+
+Java Network Programming - TCP/IP Socket Programming
+Java Design Patterns: The Complete Masterclass - 21 Patterns
+The Ultimate React Course 2024: React, Next.js, Redux & More
