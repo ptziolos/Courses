@@ -1,1 +1,276 @@
 https://www.udemy.com/course/the-ultimate-react-course/
+
+
+Libraries
+
+https://vite.dev/guide/why.html
+
+https://github.com/css-modules/css-modules
+
+https://reactrouter.com/
+
+https://react-leaflet.js.org/docs/start-installation/?ref=jonas.io
+
+https://redux.js.org/style-guide/?ref=jonas.io
+
+https://redux-toolkit.js.org/tutorials/overview?ref=jonas.io
+
+https://react-redux.js.org/api/hooks?ref=jonas.io
+
+https://tailwindcss.com/docs/installation/using-vite?ref=jonas.io
+
+https://styled-components.com/docs?ref=jonas.io
+
+https://supabase.com/docs/reference/javascript/installing
+
+https://tanstack.com/query/v4/docs/framework/react/overview?ref=jonas.io
+
+https://recharts.org/en-US/examples/SimpleLineChart
+
+https://date-fns.org/docs/Getting-Started/?ref=jonas.io
+
+https://nextjs.org/docs
+
+https://react.dev/reference/rsc/server-components
+
+https://authjs.dev/getting-started
+
+
+
+Section 1
+
+👉 React (Documentation that you should keep open at all times)
+
+👉 Create React App (This is how we'll setup our first app)
+
+👉 Vite: Getting Started (For real-world React apps)
+
+👉 Adding React URL to an HTML Document (For the "Pure React" lecture)
+
+
+https://react.dev/?ref=jonas.io
+
+https://create-react-app.dev/?ref=jonas.io
+
+https://vite.dev/guide/?ref=jonas.io
+
+
+
+Section 2
+
+👉 Writing Resilient Components (By Dan Abramov from the React team)
+
+👉 Things I think about when I write React code (GitHub repository)
+
+👉 A (Mostly) Complete Guide to React Rendering Behavior (By Mark Erikson from the redux team)
+
+👉 A Visual Guide to React Rendering (A multi-part series, check out the other ones)
+
+👉 Inside Fiber: in-depth overview of the new reconciliation algorithm in React
+
+👉 A Cartoon Intro to Fiber (YouTube video)
+
+👉 What Is React Fiber? React.js Deep Dive (YouTube video)
+
+👉 The React and React Native Event System Explained
+
+👉 Under the hood of event listeners in React
+
+👉 A DIY guide to build your own React
+
+👉 useSyncExternalStore First Look
+
+👉 Under the hood of React's hooks system
+
+👉 Why Do React Hooks Rely on Call Order? (By Dan Abramov
+
+👉 So you think you know everything about React refs
+
+👉 react-use: Reusable React Hook Library (GitHub repository)
+
+👉 react-hookz: React hooks done right (GitHub repository)
+
+
+https://github.com/react-hookz/web?ref=jonas.io
+
+https://github.com/streamich/react-use?ref=jonas.io
+
+https://blog.thoughtspile.tech/2021/05/17/everything-about-react-refs/?ref=jonas.io
+
+https://overreacted.io/why-do-hooks-rely-on-call-order/?ref=jonas.io
+
+https://the-guild.dev/blog/react-hooks-system?ref=jonas.io
+
+https://julesblom.com/writing/usesyncexternalstore?ref=jonas.io
+
+https://github.com/pomber/didact?ref=jonas.io
+
+https://gist.github.com/romain-trotard/76313af8170809970daa7ff9d87b0dd5?ref=jonas.io
+
+https://levelup.gitconnected.com/how-exactly-does-react-handles-events-71e8b5e359f2
+
+https://www.youtube.com/watch?v=0ympFIwQFJw
+
+https://www.youtube.com/watch?v=ZCuYPiUIONs
+
+https://medium.com/react-in-depth/inside-fiber-in-depth-overview-of-the-new-reconciliation-algorithm-in-react-e1c04700ef6e
+
+https://alexsidorenko.com/blog/react-render-always-rerenders?ref=jonas.io
+
+https://blog.isquaredsoftware.com/2020/05/blogged-answers-a-mostly-complete-guide-to-react-rendering-behavior/?ref=jonas.io
+
+https://github.com/mithi/react-philosophies?ref=jonas.io
+
+https://overreacted.io/writing-resilient-components/?ref=jonas.io
+
+
+
+Section 3
+
+👉 Tao of React - Software Design, Architecture & Best Practices
+
+👉 The new wave of React state management (Excellent read!)
+
+👉 A Visual Guide to React Rendering - useMemo
+
+👉 React as a UI Runtime (By Dan Abramov from the React team)
+
+👉 You Might Not Need an Effect (Official React docs)
+
+👉 A Complete Guide to useEffect (By Dan Abramov)
+
+👉 useEffect sometimes fires before paint
+
+👉 Making setInterval Declarative with React Hooks (By Dan Abramov)
+
+👉 Redux - Not Dead Yet! (By Mark Erikson from the Redux team)
+
+👉 Why React Context is Not a "State Management" Tool (By Mark Erikson)
+
+
+Library documentation:
+
+👉 Vite (Why Vite is so fast)
+
+👉 CSS Modules
+
+👉 React Router
+
+👉 React Leaflet: Installation
+
+👉 Redux: Style Guide (A must-read for Redux users!)
+
+👉 Redux Toolkit
+
+👉 React Redux
+
+
+https://alexkondov.com/tao-of-react/?ref=jonas.io
+
+https://frontendmastery.com/posts/the-new-wave-of-react-state-management/?ref=jonas.io
+
+https://alexsidorenko.com/blog/react-render-usememo?ref=jonas.io
+
+https://overreacted.io/react-as-a-ui-runtime/?ref=jonas.io
+
+https://react.dev/learn/you-might-not-need-an-effect?ref=jonas.io
+
+https://overreacted.io/a-complete-guide-to-useeffect/?ref=jonas.io
+
+https://blog.thoughtspile.tech/2021/11/15/unintentional-layout-effect/?ref=jonas.io
+
+https://overreacted.io/making-setinterval-declarative-with-react-hooks/?ref=jonas.io
+
+https://blog.isquaredsoftware.com/2018/03/redux-not-dead-yet/?ref=jonas.io
+
+https://blog.isquaredsoftware.com/2021/01/context-redux-differences/
+
+
+
+Section 4
+
+👉 React Libraries for 2023 (Written in 2023, but will be up-to-date for years, as the ecosystem is relatively stable now)
+
+👉 Styled-components best practices (By the excellent writer and educator Josh W. Comeau)
+
+👉 A Thorough Analysis of CSS-in-JS
+
+👉 Practical React Query (A huge series from one of React Query's maintainers. Started in 2020, but is still going, and still very helpful)
+
+👉 React Query meets React Router (From the same series as above)
+
+👉 Picking the right React component pattern
+
+👉 Bulletproof-react: A simple, scalable, and powerful architecture for building production-ready React applications (GitHub repository)
+
+
+Library documentation:
+
+👉 Tailwind CSS: Installation With Vite
+
+👉 styled-components
+
+👉 Supabase Javascript Client Library
+
+👉 TanStack (React) Query v4
+
+👉 Recharts
+
+👉 date-fns
+
+
+https://www.benmvp.com/blog/picking-right-react-component-pattern/?ref=jonas.io
+
+https://github.com/alan2207/bulletproof-react?ref=jonas.io
+
+https://tkdodo.eu/blog/react-query-meets-react-router?ref=jonas.io
+
+https://www.robinwieruch.de/react-libraries/?ref=jonas.io
+
+https://www.joshwcomeau.com/css/styled-components/?ref=jonas.io
+
+https://css-tricks.com/a-thorough-analysis-of-css-in-js/?ref=jonas.io
+
+https://tkdodo.eu/blog/practical-react-query?ref=jonas.io
+
+
+
+Section 5
+
+👉 28 advanced Next.js features that everyone should know (A must-read for everyone after finishing the course! ☝️)
+
+👉 How React Server Components work (We cover React Server Components (RSC) in great detail, but here is another look at them, with a few more visualizations. Written before RSC was available anywhere, but still good)
+
+👉 RSC DevTools (A nice way of visualizing the RSC payload right in Chrome's DevTools)
+
+👉 Next.js Image Component Tutorial (Going even more deep into the <Image /> component than we do in the course)
+
+👉 Understanding Next.js cache (We cover caching in detail in the course, but this is another very good article on caching)
+
+👉 Static Site Generation (SSG) Next.js documentation page
+
+👉 High-quality open-source Next.js app for learning (A huge modern Next.js codebase that you can learn a lot from)
+
+
+Framework/library documentation:
+
+👉 Next.js documentation
+
+👉 React Server Components documentation (check out this whole section on the React docs)
+
+👉 Auth.js documentation
+
+
+https://codedrivendevelopment.com/posts/rarely-known-nextjs-features
+
+https://www.plasmic.app/blog/how-react-server-components-work
+
+https://www.alvar.dev/blog/creating-devtools-for-react-server-components
+
+https://www.fullstackfoundations.com/blog/nextjs-image-component-tutorial
+
+https://blog.webdevsimplified.com/2024-01/next-js-app-router-cache/
+
+https://nextjs.org/docs/app/guides/static-exports
+
+https://tx.shadcn.com/
